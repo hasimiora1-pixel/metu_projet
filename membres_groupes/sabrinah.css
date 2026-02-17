@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  
+}
+.card{
+    width:800px;
+    padding: 100px;
+    background-color: rgba(252, 243, 243, 0.965);
+    border: 4px solid rgb(151, 129, 100);
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    gap: 20px;
+}
+.text{
+    margin-bottom: 50px;
+   
+}
+.text h1{
+    font-size: 50px;
+}
+.cadre .description {
+    display: flex;
+    justify-content: center;
+}
+.description{
+   margin-top: 300px;
+}
+.description h1{
+    font-size: 100px;
+    color: rgb(119, 119, 100);
+}
