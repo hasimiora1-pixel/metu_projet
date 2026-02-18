@@ -17,6 +17,7 @@ body{
     font-family: 'Times New Roman', Times, serif;
     display: flex;
     gap: 20px;
+    font-size: 30px;
 }
 .text{
     margin-bottom: 50px;
