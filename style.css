@@ -1,0 +1,47 @@
+
+/* L'étoile donne du style à TOUS les éléments */
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+
+body {
+    letter-spacing: 3px;
+    text-align: start;
+    color: rgb(0, 0, 0);
+    background-color: rgb(182, 235, 195);
+}
+
+
+h1 {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    /* Les tailles de police doivent être en REM */
+    font-size: 2.5rem;
+    text-shadow: 0px 0px 8px #0000007d;
+    color: rgb(14, 13, 13);
+    font-family: cursive;
+}
+h2 {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0;
+}
+
+main {
+    min-height: 500px;
+    width: 90%;
+    background: rgba(226, 216, 216, 0.705);
+    /* centrer une boite */
+    margin: 0 auto;
+    border: 2px solid rgb(119, 14, 14);
+    border-radius: 20px;
+    box-shadow: 0 0 20px 9px rgb(65, 6, 6);
+    padding: 15px;
+    display: flex;
+    }
+    
+    
+
